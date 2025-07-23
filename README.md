@@ -1,6 +1,3 @@
-Here’s a **README.md** for your `api_tester` project:
-
-````markdown
 # API Tester
 
 `api_tester` is a simple and concurrent HTTP load-testing tool written in Go.  
